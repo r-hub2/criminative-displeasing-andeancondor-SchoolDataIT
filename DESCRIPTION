@@ -40,4 +40,4 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0), tidyverse
 Config/testthat/edition: 3
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2024-05-15 07:28:25 UTC; Leonardo
+Packaged: 2024-05-15 08:14:23 UTC; Leonardo
